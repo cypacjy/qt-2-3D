@@ -1,9 +1,0 @@
-/home/chen/Desktop/qt_image/build-untitled-Desktop_Qt_6_2_4_GCC_64bit-Release/CMakeFiles/untitled.dir
-/home/chen/Desktop/qt_image/build-untitled-Desktop_Qt_6_2_4_GCC_64bit-Release/CMakeFiles/edit_cache.dir
-/home/chen/Desktop/qt_image/build-untitled-Desktop_Qt_6_2_4_GCC_64bit-Release/CMakeFiles/rebuild_cache.dir
-/home/chen/Desktop/qt_image/build-untitled-Desktop_Qt_6_2_4_GCC_64bit-Release/CMakeFiles/list_install_components.dir
-/home/chen/Desktop/qt_image/build-untitled-Desktop_Qt_6_2_4_GCC_64bit-Release/CMakeFiles/install.dir
-/home/chen/Desktop/qt_image/build-untitled-Desktop_Qt_6_2_4_GCC_64bit-Release/CMakeFiles/install/local.dir
-/home/chen/Desktop/qt_image/build-untitled-Desktop_Qt_6_2_4_GCC_64bit-Release/CMakeFiles/install/strip.dir
-/home/chen/Desktop/qt_image/build-untitled-Desktop_Qt_6_2_4_GCC_64bit-Release/CMakeFiles/untitled_autogen_timestamp_deps.dir
-/home/chen/Desktop/qt_image/build-untitled-Desktop_Qt_6_2_4_GCC_64bit-Release/CMakeFiles/untitled_autogen.dir
